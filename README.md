@@ -3,6 +3,7 @@
 - This mod aims to emulate the manips found in the any% speedrun. 
 - This was made with solo running in mind. 
 - Wild encounters and HM users should never be the deciding factor in a race to see who can beat the game the fastest.
+- Glitches and manips, in general, aren't something the gen1 recomp does.
 
 # Specifics
 
