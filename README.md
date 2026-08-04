@@ -1,3 +1,7 @@
+# Disclaimer:
+- All of my mods were designed with a PC, 1080p, and the voxel rendering mod in mind. If you are using something different, things might get wonky.
+- Keep in mind I made these mods just for fun. I probably won't be very active fixing bugs unless they affect my gameplay.
+
 # What is this?
 
 - This mod aims to emulate the manips found in the any% speedrun. 
